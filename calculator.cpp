@@ -2,10 +2,10 @@
 using namespace std;
 int main()
 {
-    int a=23,b=87;
-    cout<<"multiplication is"<<(a*b);
-    cout<<"div is"<<(a/b);
+    int a=2322,b=87;
     cout<<"add is"<<(a+b);
-    // cout<<"multiplication is"<<(a*b);
+    cout<<"sub is"<<(a-b);
+    cout<<"mul is"<<(a*b);
+    cout<<"div is"<<(a/b);
     return 0;
 }
