@@ -7,6 +7,10 @@ int main()
     for(int i=0;i<a.size();i++)
     {
         cin>>a[i];
+        
+    }
+    for(int i=0;i<a.size();i++)
+    {
         cout<<a[i];
     }
     
